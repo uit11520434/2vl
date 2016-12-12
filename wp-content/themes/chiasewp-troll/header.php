@@ -12,14 +12,14 @@
 <?php wp_head() ;?>
 </head>
 
-<body>    
+<body>
     <div id="header">
         <div id="headerContent">
             <a href="<?php bloginfo('url');?>" id="logo"><?php bloginfo('name');?></a>
             <ul id="menuBar">
                 <li class="selected"><a href="/">Mới</a></li>
                 <li class="selected"><a href="/">Hot</a></li>
-                <li class="selected"><a href= "<?php echo get_site_url().'/search'; ?>">Tìm kiếm</a></li>
+                <li class="selected"><a href= "<?php echo site_url().'/search'; ?>">Tìm kiếm</a></li>
             </ul>
 
             <div id="loginPanel">
@@ -28,7 +28,7 @@
                 <a href="blog/author/" class="profileButton">
                     admin<span class="notiCount"></span>
                 </a>
-                
+
                 <ul>
                     <li><a href="#">Tài khoản</a></li>
                     <li><a href="#">Đổi mật khẩu</a></li>
