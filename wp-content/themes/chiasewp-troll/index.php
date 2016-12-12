@@ -1,13 +1,13 @@
 <?php get_header(); ?>
-<h1 style="display: none">chiaseWP.com - Thu thuat WordPress‏</h1>
+<h1 style="display: none">hayVL.net - Thu thuat WordPress‏</h1>
 <div id="content">
     <div id="mainContainer">
         <div id="leftColumn">
             <div class="box">
-                <h3>chiaseWP.com</h3>
 
                 <div class="tips1">
-                    <b>Chuyên trang truyện tranh bựa, truyện tranh hài - chiaseWP.com</b>
+                    <b>Mẹo: Dùng phím trái(←) và phải(→) để lướt chatvl nhanh hơn. Gặp bài hay hãy "like" động viên tác giả nhé </b>
+                    <img src="./wp-content/themes/chiasewp-troll/images/4.gif">
                 </div>
 
                 <div class="photoList">
@@ -45,7 +45,7 @@
                     </div>
 
                     <div class="featuredFanPage">
-                        <h4>Like <a href="#" target="_blank">chiaseWP.com trên Facebook</a> để cười nhiều hơn</h4>
+                        <h4>Like <a href="#" target="_blank">hayVL trên Facebook</a> để cười nhiều hơn</h4>
                         <div class="fb-like" data-href="https://www.facebook.com" data-send="false" data-width="400" data-show-faces="false"></div>
                     </div>
                     

@@ -17,8 +17,9 @@
         <div id="headerContent">
             <a href="<?php bloginfo('url');?>" id="logo"><?php bloginfo('name');?></a>
             <ul id="menuBar">
-                <li class="selected"><a href="/">Truyện mới</a></li>
-                <!--<li><a class="upload" href="/upload">Upload</a></li>-->
+                <li class="selected"><a href="/">Mới</a></li>
+                <li class="selected"><a href="/">Hot</a></li>
+                <li class="selected"><a href= "<?php echo get_site_url().'/search'; ?>">Tìm kiếm</a></li>
             </ul>
 
             <div id="loginPanel">
@@ -29,7 +30,7 @@
                 </a>
                 
                 <ul>
-                    <li><a href="#">Tải khoản</a></li>
+                    <li><a href="#">Tài khoản</a></li>
                     <li><a href="#">Đổi mật khẩu</a></li>
                     <li><a href="#">Thoát</a></li>
                 </ul>
@@ -38,15 +39,6 @@
                         <a class="loginButton" href="/upload">Đăng nhập</a>
                     <?php endif; ?>
 
-            </div>
-      
-            <div id="search">
-                <form action="/" id="cse-search-box" method="get">
-                    <div>
-                        <input type="text" name="s" size="22" class="query" />
-                        <input type="submit" value="Tìm" class="searchButton"/>
-                    </div>
-                </form>
             </div>
         <div class="clear"></div>
     </div>

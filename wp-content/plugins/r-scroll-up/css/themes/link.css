@@ -1,0 +1,6 @@
+/* Text link style */
+#scrollUp {
+    bottom: 20px;
+    right: 20px;
+}
+#scrollUp:focus { outline: none;}
