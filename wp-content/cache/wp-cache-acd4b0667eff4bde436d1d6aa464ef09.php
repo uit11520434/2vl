@@ -2,7 +2,7 @@
 <html lang="vi" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta vary="User-Agent" />
-    <title>Search Results - hayVL</title>
+    <title>hayVL - Just another WordPress site</title>
     <script src="http://s.haivl.com/Scripts/jquery-1.6.2.min.js" type="text/javascript"></script>
     <link href="http://localhost/2vl/wp-content/themes/chiasewp-troll/style.css" type="text/css" rel="stylesheet" />
     <script src="http://localhost/2vl/wp-content/themes/chiasewp-troll/js/vaitruyen.js" type="text/javascript"></script>
@@ -11,18 +11,19 @@
     </script>
 
 <!-- This site is optimized with the Yoast SEO Premium plugin v3.5.2 - https://yoast.com/wordpress/plugins/seo/ -->
-<!-- Admin only notice: this page doesn't show a meta description because it doesn't have one, either write it for this page specifically or go into the SEO -> Titles menu and set up a template. -->
-<link rel="canonical" href="http://localhost/2vl/search_gcse/" />
+<meta name="description" content="Just another WordPress site"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://localhost/2vl/" />
 <meta property="og:locale" content="en_US" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="Search Results - hayVL" />
-<meta property="og:description" content="Search Results" />
-<meta property="og:url" content="http://localhost/2vl/search_gcse/" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="hayVL - Just another WordPress site" />
+<meta property="og:description" content="Just another WordPress site" />
+<meta property="og:url" content="http://localhost/2vl/" />
 <meta property="og:site_name" content="hayVL" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="Search Results" />
-<meta name="twitter:title" content="Search Results - hayVL" />
-<meta property="DC.date.issued" content="2016-12-12T13:27:46+00:00" />
+<meta name="twitter:description" content="Just another WordPress site" />
+<meta name="twitter:title" content="hayVL - Just another WordPress site" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/localhost\/2vl\/","name":"hayVL","potentialAction":{"@type":"SearchAction","target":"http:\/\/localhost\/2vl\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <!-- / Yoast SEO Premium plugin. -->
 
 <link rel='dns-prefetch' href='//s.w.org' />
@@ -61,9 +62,6 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/2vl/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/2vl/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.7" />
-<link rel='shortlink' href='http://localhost/2vl/?p=4' />
-<link rel="alternate" type="application/json+oembed" href="http://localhost/2vl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2F2vl%2Fsearch_gcse%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://localhost/2vl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2F2vl%2Fsearch_gcse%2F&#038;format=xml" />
   	<!--=================================================================================
   			Facebook Comment box header script
   			plugin url: http://plugin.rayhan.info/facebook-comment-box/
@@ -127,9 +125,7 @@ img.emoji {
 });
 </script>
 
-
-<meta property="og:title" content="Search Results"/>
-<meta property="og:site_name" content="hayVL"/>		<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" async data-pin-color="red" data-pin-count="none"></script>
+		<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" async data-pin-color="red" data-pin-count="none"></script>
 	</head>
 
 <body>
@@ -167,29 +163,29 @@ img.emoji {
 
                 <div class="tips1">
                     <b>Mẹo: Dùng phím trái(←) và phải(→) để lướt chatvl nhanh hơn. Gặp bài hay hãy "like" động viên tác giả nhé </b>
-                    <img src="./wp-content/themes/chiasewp-troll/images/4.gif">
+                    <img src="http://localhost/2vl/wp-content/themes/chiasewp-troll/images/4.gif">
                 </div>
 
                 <div class="photoList">
-                                        
+                    
                                         <div class="photoListItem">
                         <div class="listItemSeparator"></div>
                         <div class="thumbnail">
-                            <a href="http://localhost/2vl/search_gcse/" target="_blank">
-                                                                <img src="http://localhost/2vl/wp-content/themes/chiasewp-troll/thumb.php?src=http://localhost/2vl/wp-content/themes/chiasewp-troll/images/no-image.png&amp;w=400&amp&amp;zc=1&amp;q=80" width="400px" class="thumbImg" alt="Search Results" />
+                            <a href="http://localhost/2vl/2016/12/12/hello-world/" target="_blank">
+                                                                <img src="http://localhost/2vl/wp-content/themes/chiasewp-troll/thumb.php?src=http://localhost/2vl/wp-content/uploads/2016/12/hello-world-1.jpg&amp;w=400&amp&amp;zc=1&amp;q=80" width="400px" class="thumbImg" alt="Hello world!" />
                                                             </a>
                         </div>
-    
+
                         <div class="info">
-                            <h2><a target="_blank" href="http://localhost/2vl/search_gcse/">Search Results</a></h2>
-                            <div class="uploader">Đăng bởi <a href="http://localhost/2vl/author/admin/" title="Posts by admin" rel="author">admin</a> <abbr title="December 12, 2016 at 1:27 pm">18 mins ago</abbr></div>
+                            <h2><a target="_blank" href="http://localhost/2vl/2016/12/12/hello-world/">Hello world!</a></h2>
+                            <div class="uploader">Đăng bởi <a href="http://localhost/2vl/author/admin/" title="Posts by admin" rel="author">admin</a> <abbr title="December 12, 2016 at 1:26 pm">16 hours ago</abbr></div>
                             <div class="stats">
                                 <span class="views" title="Lượt xem">0 views</span>
-                                <span class="comments" title="Lượt bình luận"> <fb:comments-count href="http://localhost/2vl/search_gcse/"></fb:comments-count></span>
+                                <span class="comments" title="Lượt bình luận"> <fb:comments-count href="http://localhost/2vl/2016/12/12/hello-world/"></fb:comments-count></span>
                                 <div style="padding-top: 10px">
-                                    <a href="https://twitter.com/share" class="twitter-share-button" data-text="Search Results" data-url="http://localhost/2vl/search_gcse/" data-via="vaitruyen" data-lang="en">Tweet</a>
+                                    <a href="https://twitter.com/share" class="twitter-share-button" data-text="Hello world!" data-url="http://localhost/2vl/2016/12/12/hello-world/" data-via="hayVL.net" data-lang="en">Tweet</a>
                                     <div style="margin:-23px; margin-left:90px">
-                                        <div class="fb-like" data-href="http://localhost/2vl/search_gcse/" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
+                                        <div class="fb-like" data-href="http://localhost/2vl/2016/12/12/hello-world/" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
                                     </div>
                                 </div>
                             </div>
@@ -201,7 +197,7 @@ img.emoji {
                         <h4>Like <a href="#" target="_blank">hayVL trên Facebook</a> để cười nhiều hơn</h4>
                         <div class="fb-like" data-href="https://www.facebook.com" data-send="false" data-width="400" data-show-faces="false"></div>
                     </div>
-                    
+
                     
                     
                 </div>
@@ -209,7 +205,7 @@ img.emoji {
             </div>
 
             <div id="footer">
-                <div>Power by <a href="http://chiasewp.com" title="thủ thuật wordpress, theme & plugin wordpress" target="_blank">chiaseWP.com</a> / chiaseWP-troll</div>
+                <div>Power by <a href="http://hayVL.net" title="" target="_blank">hayVL.net</a></div>
                 <div class="clear"></div>
             </div>
 
@@ -384,5 +380,5 @@ var danw_notification_wc_ajax = {"ajaxurl":"http:\/\/localhost\/2vl\/wp-admin\/a
 <script type='text/javascript' src='http://localhost/2vl/wp-includes/js/wp-embed.min.js?ver=4.7'></script>
 </body>
 </html>
-<!-- Dynamic page generated in 0.425 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-12-12 13:45:49 -->
+<!-- Dynamic page generated in 0.311 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 05:48:53 -->

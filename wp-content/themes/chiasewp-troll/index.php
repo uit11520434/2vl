@@ -7,12 +7,12 @@
 
                 <div class="tips1">
                     <b>Mẹo: Dùng phím trái(←) và phải(→) để lướt chatvl nhanh hơn. Gặp bài hay hãy "like" động viên tác giả nhé </b>
-                    <img src="./wp-content/themes/chiasewp-troll/images/4.gif">
+                    <img src="<?php echo bloginfo('url').'/wp-content/themes/chiasewp-troll/images/4.gif';?>">
                 </div>
 
                 <div class="photoList">
                     <?php $i = 1; while ( have_posts() ) : the_post(); ?>
-                    
+
                     <?php if($i==1) { ?>
                     <div class="photoListItem">
                         <div class="listItemSeparator"></div>
@@ -26,7 +26,7 @@
                                 <?php } ?>
                             </a>
                         </div>
-    
+
                         <div class="info">
                             <h2><a target="_blank" href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
                             <div class="uploader">Đăng bởi <?php the_author_posts_link(); ?> <abbr title="<?php the_time('F j, Y'); ?> at <?php the_time('g:i a'); ?>"><?php echo human_time_diff(get_the_time('U'), current_time('timestamp')) . __(' ago', 'chiasewp.com'); ?></abbr></div>
@@ -34,7 +34,7 @@
                                 <span class="views" title="Lượt xem"><?php the_views(); ?></span>
                                 <span class="comments" title="Lượt bình luận"> <fb:comments-count href="<?php the_permalink(); ?>"></fb:comments-count></span>
                                 <div style="padding-top: 10px">
-                                    <a href="https://twitter.com/share" class="twitter-share-button" data-text="<?php the_title(); ?>" data-url="<?php the_permalink() ;?>" data-via="vaitruyen" data-lang="en">Tweet</a>
+                                    <a href="https://twitter.com/share" class="twitter-share-button" data-text="<?php the_title(); ?>" data-url="<?php the_permalink() ;?>" data-via="hayVL.net" data-lang="en">Tweet</a>
                                     <div style="margin:-23px; margin-left:90px">
                                         <div class="fb-like" data-href="<?php the_permalink(); ?>" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
                                     </div>
@@ -48,7 +48,7 @@
                         <h4>Like <a href="#" target="_blank">hayVL trên Facebook</a> để cười nhiều hơn</h4>
                         <div class="fb-like" data-href="https://www.facebook.com" data-send="false" data-width="400" data-show-faces="false"></div>
                     </div>
-                    
+
                     <?php } else { ?>
 
                     <article class="post-<?php the_ID() ;?> post type-post status-publish format-standard hentry category-uncategorized" id="post-<?php the_ID() ;?>">
@@ -64,7 +64,7 @@
                                 <?php } ?>
                             </a>
                         </div>
-    
+
                         <div class="info">
                             <h2><a target="_blank" href="<?php the_permalink() ;?>"><?php the_title() ;?></a></h2>
                             <div class="uploader">Đăng bởi <?php the_author_posts_link(); ?> <abbr title="<?php the_time('F j, Y'); ?> at <?php the_time('g:i a'); ?>"><?php echo human_time_diff(get_the_time('U'), current_time('timestamp')) . __(' ago', 'chiasewp.com'); ?></abbr></div>
@@ -72,7 +72,7 @@
                                 <span class="views" title="Lượt xem"><?php the_views();?></span>
                                 <span class="comments" title="Lượt bình luận"> <fb:comments-count href="<?php the_permalink(); ?>"></fb:comments-count></span>
                                 <div>
-                                    <a href="https://twitter.com/share" class="twitter-share-button" data-text="<?php the_title(); ?>" data-url="<?php the_permalink() ;?>" data-via="vaitruyen" data-lang="en">Tweet</a>
+                                    <a href="https://twitter.com/share" class="twitter-share-button" data-text="<?php the_title(); ?>" data-url="<?php the_permalink() ;?>" data-via="hayVL.net" data-lang="en">Tweet</a>
                                     <div style="margin:-23px; margin-left:90px">
                                         <div class="fb-like" data-href="<?php the_permalink() ;?>" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
                                     </div>
@@ -91,7 +91,7 @@
             </div>
 
             <div id="footer">
-                <div>Power by <a href="http://chiasewp.com" title="thủ thuật wordpress, theme & plugin wordpress" target="_blank">chiaseWP.com</a> / chiaseWP-troll</div>
+                <div>Power by <a href="http://hayVL.net" title="" target="_blank">hayVL.net</a></div>
                 <div class="clear"></div>
             </div>
 

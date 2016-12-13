@@ -70,13 +70,13 @@
 
                 </div>
 
-                <div class="clear"></div>   
+                <div class="clear"></div>
 
                 <div class="photoImg">
-                    <?php 
+                    <?php
                     $post_id = get_the_id();
                     $post = get_post($post_id);
-                    $video_id = substr($post->post_content,strpos($post->post_content, 'v') + 2, 11).'?autoplay=1'; 
+                    $video_id = substr($post->post_content,strpos($post->post_content, 'v') + 2, 11).'?autoplay=1';
                     ?>
                     <iframe width="100%" height="370" src="http://www.youtube.com/embed/<?php echo $video_id ;?>" frameborder="0" allowfullscreen></iframe>
 

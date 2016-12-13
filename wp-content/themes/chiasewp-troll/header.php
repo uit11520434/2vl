@@ -19,7 +19,7 @@
             <ul id="menuBar">
                 <li class="selected"><a href="/">Mới</a></li>
                 <li class="selected"><a href="/">Hot</a></li>
-                <li class="selected"><a href= "<?php echo site_url().'/search'; ?>">Tìm kiếm</a></li>
+                <li class="selected"><a href= "<?php echo bloginfo('url').'/search'; ?>">Tìm kiếm</a></li>
             </ul>
 
             <div id="loginPanel">
