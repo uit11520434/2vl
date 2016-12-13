@@ -35,8 +35,8 @@
                                 <span class="comments" title="Lượt bình luận"> <fb:comments-count href="<?php the_permalink(); ?>"></fb:comments-count></span>
                                 <div style="padding-top: 10px">
                                     <a href="https://twitter.com/share" class="twitter-share-button" data-text="<?php the_title(); ?>" data-url="<?php the_permalink() ;?>" data-via="hayVL.net" data-lang="en">Tweet</a>
-                                    <div style="margin:-23px; margin-left:90px">
-                                        <div class="fb-like" data-href="<?php the_permalink(); ?>" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
+                                    <div style="margin:-23px; margin-left:65px">
+                                      <div class="fb-like" data-href="<?php the_permalink(); ?>" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
                                     </div>
                                 </div>
                             </div>
@@ -45,7 +45,7 @@
                     </div>
 
                     <div class="featuredFanPage">
-                        <h4>Like <a href="#" target="_blank">hayVL trên Facebook</a> để cười nhiều hơn</h4>
+                        <h4>Like <a href="https://www.facebook.com/hayvl" target="_blank">hayVL trên Facebook</a> để cười nhiều hơn</h4>
                         <div class="fb-like" data-href="https://www.facebook.com" data-send="false" data-width="400" data-show-faces="false"></div>
                     </div>
 
@@ -71,10 +71,10 @@
                             <div class="stats">
                                 <span class="views" title="Lượt xem"><?php the_views();?></span>
                                 <span class="comments" title="Lượt bình luận"> <fb:comments-count href="<?php the_permalink(); ?>"></fb:comments-count></span>
-                                <div>
+                                <div style="padding-top: 10px">
                                     <a href="https://twitter.com/share" class="twitter-share-button" data-text="<?php the_title(); ?>" data-url="<?php the_permalink() ;?>" data-via="hayVL.net" data-lang="en">Tweet</a>
-                                    <div style="margin:-23px; margin-left:90px">
-                                        <div class="fb-like" data-href="<?php the_permalink() ;?>" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
+                                    <div style="margin:-23px; margin-left:65px">
+                                      <div class="fb-like" data-href="<?php the_permalink(); ?>" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
                                     </div>
                                 </div>
                             </div>

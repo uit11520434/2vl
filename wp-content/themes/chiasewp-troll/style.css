@@ -743,13 +743,13 @@ div.photoDetails .photoInfo {
 div.photoDetails .uploader {
     float: left;
     margin-left: 10px;
-    background-color: #EEE;
+    background-color: #FFFF99;
     padding: 5px 5px 5px 8px;
     width: 160px;
     border-radius: 3px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
-    color: #545454;
+    color: #1F1F1F;
     margin-bottom: 5px;
 }
 div.photoDetails .uploader img {
